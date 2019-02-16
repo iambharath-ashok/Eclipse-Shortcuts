@@ -2,33 +2,33 @@
 
 ## 1.	Managing Multiple Workspaces
 
-		1.	Working with multiple Eclipse Workspaces
-		
-			-	Working with multiple workspaces
-			-	Create a short cut with -data "Workspace location"
-			
-				ex: c:\eclipse.exe -data C:\Projects\Workpsace\Java
-				
-		2.	Identifying which eclipse instances
+1.	Working with multiple Eclipse Workspaces
 
-			-	Sol : show the workspace location with full path
-			
-			-	Window -> Preferences -> General -> Window Title
-			
-		3.	Saving Scree Space by replacing common prefix for the packages
-		
-			-	Use the abbreviated package for the common prefix packages
-			-	Saves the lot of screen space
-		
-		
-			-	Window -> Preferences -> Java -> Appearance -> Abbreviate Package Names
+	-	Working with multiple workspaces
+	-	Create a short cut with -data "Workspace location"
 
-			
-		4.	Importing already installed plugins from existing Eclipse
+		ex: c:\eclipse.exe -data C:\Projects\Workpsace\Java
 
-			-	File -> Import -> From Existing Eclipse
-			-	Export -> Installed items to a file
-			
+2.	Identifying which eclipse instances
+
+	-	Sol : show the workspace location with full path
+
+	-	Window -> Preferences -> General -> Window Title
+
+3.	Saving Scree Space by replacing common prefix for the packages
+
+	-	Use the abbreviated package for the common prefix packages
+	-	Saves the lot of screen space
+
+
+	-	Window -> Preferences -> Java -> Appearance -> Abbreviate Package Names
+
+
+4.	Importing already installed plugins from existing Eclipse
+
+	-	File -> Import -> From Existing Eclipse
+	-	Export -> Installed items to a file
+
 	
 	
 ## 2.	Navigation
